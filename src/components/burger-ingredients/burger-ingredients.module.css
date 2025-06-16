@@ -1,0 +1,23 @@
+.section {
+  width: 600px;
+}
+
+.tabWrap {
+  display: flex;
+}
+
+.container {
+  height: 716px;
+  overflow-x: hidden;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.list a {
+  text-decoration: none;
+  color: #f2f2f3;
+}

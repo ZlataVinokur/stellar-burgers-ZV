@@ -1,0 +1,20 @@
+.nav {
+  width: 320px;
+}
+
+.link {
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  min-height: 64px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.active {
+  color: #f2f2f3;
+}
+
+.text {
+  opacity: 0.4;
+}

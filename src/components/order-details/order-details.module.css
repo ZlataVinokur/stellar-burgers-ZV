@@ -1,0 +1,14 @@
+.details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.details img {
+  width: 120px;
+}
+
+.text {
+  text-align: center;
+}

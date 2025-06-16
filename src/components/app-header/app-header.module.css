@@ -1,0 +1,34 @@
+.header {
+  background-color: #1c1c21;
+}
+
+.wrap {
+  width: 1280px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navWrap {
+  width: 30%;
+  display: flex;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.active {
+  color: #f2f2f3;
+}
+
+.align {
+  margin-left: auto;
+}
